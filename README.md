@@ -18,3 +18,20 @@ check receipt,
 
 receipt info.
 
+to work correctly, you must install the khttp library
+
+in maven:
+```
+<dependency>
+    <groupId>khttp</groupId>
+    <artifactId>khttp</artifactId>
+    <version>0.1.0</version>
+</dependency>
+```
+and 
+```
+<repository>
+    <id>central</id>
+    <url>http://jcenter.bintray.com</url>
+</repository>
+```
