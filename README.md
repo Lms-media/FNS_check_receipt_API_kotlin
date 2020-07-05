@@ -2,7 +2,7 @@
 
 Idea: https://github.com/dmitriybobrovskiy/CheckReceiptSDK
 
-this code is an interpretation of a project from https://github.com/DmitriyBobrovskiy implemented in python.
+this code is an interpretation of a project from https://github.com/DmitriyBobrovskiy implemented in kotlin.
 
 python version: https://github.com/Lms-media/FNS_check_receipt_API
 
